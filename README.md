@@ -1,23 +1,37 @@
 # LifeGuide AI
 
-**An AI-powered guidance companion for Android.**
+**Your Personal AI Guidance Companion**
 
-LifeGuide AI is an Android application designed to provide personalized guidance based on a user's goals, interests, and preferences.
+LifeGuide AI is an Android application designed to provide personalized guidance based on your goals, interests, and preferences.
+
+## App Preview
+
+### LifeGuide AI — Overview
+
+![LifeGuide AI app overview](assets/lifeguide-overview.jpg)
+
+### Choose Your Guidance Mode
+
+![LifeGuide AI guidance modes](assets/lifeguide-guidance-modes.jpg)
+
+### Home Screen
+
+![LifeGuide AI home screen](assets/lifeguide-home-screen.jpg)
 
 ## Features
 
-- AI-powered conversations
-- Personalized guidance
-- Goal-oriented assistance
-- User profile customization
-- Smart recommendations
+- **Personalized memory** — remembers goals, interests, habits, and preferences.
+- **Multiple guidance modes** — Normal, Friend, Mentor, Deep, and Life Guide.
+- **Voice conversations** — voice-to-text support for natural conversations.
+- **Image and document analysis** — understand and analyze shared images and documents.
+- **Synced conversations** — access conversations across devices.
 
 ## Get the App
 
 **Google Play Store:**  
 https://play.google.com/store/apps/details?id=com.lifeguide.ai&hl=en_SG
 
-Anyone can visit the Google Play listing to learn about and install the app, subject to Play Store availability and device compatibility.
+Visit the Google Play listing for availability and device compatibility details.
 
 ## Technology
 
