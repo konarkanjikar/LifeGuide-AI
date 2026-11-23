@@ -1,8 +1,14 @@
 # LifeGuide AI
 
-**Your Personal AI Guidance Companion**
+### Your Personal AI Guidance Companion
 
-LifeGuide AI is an Android application designed to provide personalized guidance based on your goals, interests, and preferences.
+LifeGuide AI is an AI-powered Android application designed to make personalized guidance more accessible through interactive conversations based on users' goals, interests, and preferences.
+
+**Published on Google Play**
+
+[**Get LifeGuide AI on Google Play →**](https://play.google.com/store/apps/details?id=com.lifeguide.ai)
+
+---
 
 ## App Preview
 
@@ -18,20 +24,21 @@ LifeGuide AI is an Android application designed to provide personalized guidance
 
 ![LifeGuide AI home screen](assets/lifeguide-home-screen.jpg)
 
+---
+
 ## Features
 
-- **Personalized memory** — remembers goals, interests, habits, and preferences.
-- **Multiple guidance modes** — Normal, Friend, Mentor, Deep, and Life Guide.
-- **Voice conversations** — voice-to-text support for natural conversations.
-- **Image and document analysis** — understand and analyze shared images and documents.
-- **Synced conversations** — access conversations across devices.
+- **Personalized Memory** — Retains useful context about goals, interests, habits, and preferences.
+- **Multiple Guidance Modes** — Choose between Normal, Friend, Mentor, Deep, and Life Guide modes.
+- **Voice-to-Text Input** — Convert spoken input into text to interact with the AI. This supports voice input, not voice-to-voice conversations.
+- **Image and Document Analysis** — Share supported images and documents for AI-powered understanding.
+- **Synced Conversations** — Access conversations across supported devices.
 
-## Get the App
+## About the Project
 
-**Google Play Store:**  
-https://play.google.com/store/apps/details?id=com.lifeguide.ai&hl=en_SG
+LifeGuide AI explores how artificial intelligence can become a more useful everyday companion for learning, reflection, and personal productivity.
 
-Visit the Google Play listing for availability and device compatibility details.
+The goal is to make AI interactions more contextual, accessible, and personalized.
 
 ## Technology
 
@@ -39,10 +46,22 @@ Visit the Google Play listing for availability and device compatibility details.
 - Android
 - AI APIs
 
-## Project Vision
+## Project Status
 
-Making personalized guidance more accessible through intelligent and interactive technology.
+**Published application**
+
+LifeGuide AI is available through Google Play. Visit the store listing for current availability and device compatibility information.
+
+## Repository Information
+
+This repository serves as the public project showcase for LifeGuide AI. It contains project documentation, feature descriptions, and application screenshots. The application's source code is not included in this repository.
 
 ## Developer
 
 **Konark Anjikar**
+
+Student Developer | AI & Software
+
+---
+
+[**Explore LifeGuide AI on Google Play →**](https://play.google.com/store/apps/details?id=com.lifeguide.ai)
